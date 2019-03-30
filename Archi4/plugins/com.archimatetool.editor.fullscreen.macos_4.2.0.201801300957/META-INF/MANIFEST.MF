@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.archimatetool.editor.fullscreen.macos;singlet
+ on:=true
+Bundle-Name: MacFullScreen
+Bundle-Version: 4.2.0.201801300957
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-PlatformFilter: (osgi.ws=cocoa)
+Bundle-Vendor: Archi
+Fragment-Host: com.archimatetool.editor
+
+
